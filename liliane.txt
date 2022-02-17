@@ -1,0 +1,28 @@
+Quem inventou o sistema de controle de versão Git e por quê?
+
+r: Por definição, o Git é um Sistema de Controle de Versão Distribuído. Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação, o Linux
+De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o Git. O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de software depende do Git para controle de versão, incluindo projetos comerciais e de código-fonte aberto. Os desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos de desenvolvimento de software disponíveis e funcionam bem em uma ampla variedade de sistemas operacionais e IDEs (Ambientes de Desenvolvimento Integrado).
+
+
+Quem atualmente é o dono do Github e por quê?
+
+r: Microsoft compra GitHub por US$ 7,5 bilhões
+O atual dono é Satya Nadella
+
+https://news.microsoft.com/exec/satya-nadella/
+
+Longtime Microsoft executive Satya Nadella was named CEO, succeeding Steve Ballmer to become only the third leader in the company’s 39-year history.
+
+Nadella ushered the company into a new era of openness and innovation, growing Microsoft’s cloud computing business, promoting cross-platform collaboration and overseeing the launch of inventive products. Known for his empathetic management style, Nadella helped transform Microsoft’s culture while bolstering the company’s bottom line.
+
+Longtime Microsoft executive Satya Nadella was named CEO, succeeding Steve Ballmer to become only the third leader in the company’s 39-year history.
+
+Nadella ushered the company into a new era of openness and innovation, growing Microsoft’s cloud computing business, promoting cross-platform collaboration and overseeing the launch of inventive products. Known for his empathetic management style, Nadella helped transform Microsoft’s culture while bolstering the company’s bottom line.
+
+
+
+
+
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+sim com o github no desktop assim vc trabalha dentro do proprio github
